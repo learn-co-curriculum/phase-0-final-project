@@ -1,5 +1,10 @@
 # Project: Build a Personal Website
 
+## Learning Objectives
+
+- Build a website
+- Publish a website
+
 ## Introduction
 
 You've been learning HTML, CSS, and JavaScript over the previous lessons. You've been
@@ -15,10 +20,6 @@ Professional software engineers and web developers often have a personal
 website. In some ways, it is the industry's alternative to a business card. A
 personal website can showcase your abilities while also giving visitors a sense
 of your personality.
-## Learning Objectives
-
-- Build a website
-- Publish a website
 
 ## Requirements
 
