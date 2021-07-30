@@ -43,7 +43,7 @@ Review the previous lesson, **Host a Site on GitHub**, for guidance on setting
 up the necessary HTML, CSS, and JS files, and instructions on how to publish a
 site on GitHub Pages.
 
-We recommend going through these steps first &mdash; create and connect the necessary
+We recommend going through these steps first — create and connect the necessary
 files _and_ get them published before diving into writing too much HTML and
 JavaScript. If you've got everything published, you'll be able to continuously
 push updates to your site _as you build it_.
@@ -64,7 +64,7 @@ next without checking your work. The problem here is that if you make a mistake
 it becomes more and more difficult to spot the error and can cause you to
 backtrack and spend extra time debugging.
 
-By frequently checking your work, you'll set your own project milestones &mdash; at
+By frequently checking your work, you'll set your own project milestones — at
 each one, you can verify everything is working so when you _do_ make a mistake,
 you'll know it was made recently.
 
@@ -72,7 +72,7 @@ you'll know it was made recently.
 
 When it comes to Git, there is ultimately no rule that says you _must_ do things
 a certain way. However, if there was anything we could impart to you regarding
-good version control habits, it would be this &mdash; commit code frequently.
+good version control habits, it would be this — commit code frequently.
 
 As mentioned, it is a common habit to dive into the code of a project and write
 as much as you can, for as long as you can. However, not only does this increase
@@ -103,7 +103,7 @@ The commit messages here suggest that each commit above addressed a small, often
 _singular_ task.
 
 Good commit practices are critical for large companies and organizations where
-many developers are working on large code-bases &mdash; in these cases, limiting
+many developers are working on large code-bases — in these cases, limiting
 the size of commits makes it easier for others to understand what changes the
 commit brings. If a commit introduces a bug into the code base, it is fairly
 easy to revert a _small_ commit. A big commit, on the other hand, may require
