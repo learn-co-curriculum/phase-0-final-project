@@ -1,8 +1,8 @@
 # Project: Build a Personal Website
 
-## Learning Objectives
+## Learning Goals
 
-- Build a website
+- Build a website using HTML, CSS and JavaScript
 - Publish a website
 
 ## Introduction
