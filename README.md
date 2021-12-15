@@ -7,12 +7,12 @@
 
 ## Introduction
 
-You've been learning HTML, CSS, and JavaScript over the previous lessons. You've been
-receiving specific guidance ("Use a `<link>` tag!") and have been steered by
-our documentation or tests. In an effort to help you build your confidence, we're
-going to give you _nothing_ except some specifications and leave the document
-structure and styling _to you_.  It's time to tie all your learning together
-into one project. You must create...
+You've been learning HTML, CSS, and JavaScript over the previous lessons. You've
+been receiving specific guidance ("Use a `<link>` tag!") and have been steered
+by our documentation or tests. In an effort to help you build your confidence,
+we're going to give you _nothing_ except some specifications and leave the
+document structure and styling _to you_.  It's time to tie all your learning
+together into one project. You must create...
 
 ..._a personal website_!
 
@@ -39,20 +39,22 @@ considerate of content/subject matter and your potential audience.
 
 ## Getting Started and a Recommended Workflow
 
-Review the previous lesson, **Host a Site on GitHub**, for guidance on setting
-up the necessary HTML, CSS, and JS files, and instructions on how to publish a
-site on GitHub Pages.
+In the previous two lessons, you:
 
-We recommend going through these steps first — create and connect the necessary
-files _and_ get them published before diving into writing too much HTML and
-JavaScript. If you've got everything published, you'll be able to continuously
-push updates to your site _as you build it_.
+- Created local and remote repos for your project and connected them together
+- Created the base files for your project: `README.md`, `index.html`,
+  `style.css`, and `index.js`
+- Published your new site on GitHub Pages.
+
+With all of this in place, you are ready to start working on the _content_,
+_styles_, and _behavior_ you want your site to have. Because your site is
+published on GitHub Pages, you'll be able to continuously push updates to your
+site _as you build it_.
 
 In general, when it comes to building code-related projects, it is often best to
 establish a routine of making small improvements, checking to make sure those
-improvements work and don't break things. After creating the basic files and
-connecting them, open your HTML file in a browser tab and your files in a code
-editor, this routine might look something like the following:
+improvements work and don't break things. This routine might look something like
+the following:
 
 1) Write some HTML, CSS or JavaScript
 2) Go to your browser and refresh the page to see the changes
@@ -61,8 +63,7 @@ editor, this routine might look something like the following:
 
 It is very common to get lost in coding and to keep going from one task to the
 next without checking your work. The problem here is that if you make a mistake
-it becomes more and more difficult to spot the error and can cause you to
-backtrack and spend extra time debugging.
+it becomes more and more difficult to spot and debug the error.
 
 By frequently checking your work, you'll set your own project milestones — at
 each one, you can verify everything is working so when you _do_ make a mistake,
