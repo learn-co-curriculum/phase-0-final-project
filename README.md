@@ -11,7 +11,7 @@ You've been learning HTML, CSS, and JavaScript over the previous lessons. You've
 been receiving specific guidance ("Use a `<link>` tag!") and have been steered
 by our documentation or tests. In an effort to help you build your confidence,
 we're going to give you _nothing_ except some specifications and leave the
-document structure and styling _to you_.  It's time to tie all your learning
+document structure and styling _to you_. It's time to tie all your learning
 together into one project. You must create...
 
 ..._a personal website_!
