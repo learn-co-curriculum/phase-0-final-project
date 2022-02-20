@@ -1,0 +1,121 @@
+
+
+body {
+    background: rgb(163, 190, 248);
+  }
+
+  * {
+    margin: 50;
+    padding: 40;
+    border: darkblue;
+    font-family: Arial, sans-serif;
+  }
+  
+  body {
+    font-size: 15px;
+  }
+
+  h1 {
+    width:500px;
+    margin: 0 auto;
+    background:rosybrown;
+    opacity: 0.8;
+    text-align: center;
+    border: 5px solid rgb(0, 0, 0);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    box-shadow: 1px 2px 3px 4px rgba(56, 17, 54, 0.4);
+}
+
+h2 {
+  width:500px;
+  margin: 0 auto;
+  background: rgb(163, 190, 248);
+  text-align: center;
+  background-color: ;
+  padding: 50px;
+  height: fit-content;
+}
+
+h3 {
+  width: 200px;px;
+  margin: 0 auto;
+  background: rgb(163, 190, 248);
+  text-align: center;
+}
+
+p {
+  border: 5px solid rgb(14, 15, 15);
+  padding: 50px;
+  text-align: center;
+  color:rgb(4, 7, 14);
+  background-color: rosybrown;
+  font-size: small;
+  font-weight: 700;
+  width: 400px;
+  height: 200px;
+  margin: 100px;
+  padding-top: 50px;
+  padding: 50px 20px 40px 50px;
+  padding-left: 15px;
+  border-radius: 10px;
+  border-start-end-radius: 10px;
+  box-shadow: rgba(46, 29, 40, 0.4) -5px 5px, rgba(240, 46, 170, 0.3) -10px 10px, rgba(36, 19, 30, 0.2) -15px 15px, rgba(240, 46, 170, 0.1) -20px 20px, rgba(240, 46, 170, 0.05) -25px 25px;
+
+  
+}
+
+p {
+  font-family: "Georgia";
+}
+
+
+
+h1 {
+  font-family: "
+}
+
+.p3 {
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+
+body {
+  font-family: Copperplate, Papyrus, fantasy;
+}
+
+h3 {
+  border: 50px;
+  width: 400px;
+  margin: 5px;
+  background:rosybrown;
+  text-align: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  padding-left: 100px;
+  padding-right: 150px;
+  border-radius: 10px;
+  border-start-end-radius: 10px;
+  border-width: 200px;
+  box-shadow: rgba(41, 31, 37, 0.4) -5px 5px, rgba(221, 75, 148, 0.3) -10px 10px, rgba(22, 19, 21, 0.2) -15px 15px, rgba(158, 41, 115, 0.1) -20px 20px, rgba(8, 3, 6, 0.05) -25px 25px;
+
+
+}
+
+img {
+  position: fixed; 
+  top: 0; 
+  left: 0; 
+	
+  /* Preserve aspet ratio */
+  min-width: 100%;
+  min-height: 100%;
+}
+
+ img {
+  position: absolute; 
+  top: 0; 
+  left: 0; 
+  right: 0; 
+  bottom: 0; 
+  margin: auto; 
+  min-width: 50%;
+  min-height: 50%;
+}
